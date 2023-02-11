@@ -1,17 +1,17 @@
-# Bootcamp - Data Science - Noviembre 2022 - The Bridge
+# Bootcamp - Data Science - Febrero 2023 - The Bridge
 
 
 ![The Bridge](./1-Ramp_Up/Presentaciones/img/TheBridge_logo.png)
 
 ----------
 
-### **Foldername**: ds_thebridge_11_22
+### **Foldername**: DS_TheBridgeBBK_Feb2023
 
-***Repository link:*** https://github.com/MNievas12/ds_thebridge_11_22
+***Repository link:*** https://github.com/Mlcruz9/DS_TheBridgeBBK_FBIL2023.git
 
 *To git clone by https:*
 
-"git clone https://github.com/MNievas12/ds_thebridge_11_22"
+"git clone https://github.com/Mlcruz9/DS_TheBridgeBBK_FBIL2023.git"
 
 - https://developers.google.com/machine-learning/glossary
 
@@ -26,14 +26,6 @@
 
 ---------
 
-**Lead Instructor**: *Miguel Ángel Nievas Fuertes*
+**Lead Instructor**: *Miguel Stiven la Cruz Pino*
 
-- miguel.nievas@thebridgeschool.es
-
-**Teacher Assistant**: *Javier Tenorio Ruiz*
-
-- javier.tenorio@thebridgeschool.es
-
-**Teacher Assistant**: *Mario Sabrás Ramírez*
-
-- mario.sabras@thebridgeschool.es
+- miguel.cruz@thebridgeschool.es
