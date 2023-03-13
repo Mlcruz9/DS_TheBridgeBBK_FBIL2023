@@ -1,7 +1,7 @@
 # Bootcamp - Data Science - Febrero 2023 - The Bridge
 
 
-![The Bridge](./1- Ramp_Up/Presentaciones/img/TheBridge_logo.png)
+![The Bridge](./1-Ramp_Up/Presentaciones/img/TheBridge_logo.png)
 
 ----------
 
